@@ -8,7 +8,7 @@ This app is a very simple vote app web site for Unhackable Inc.
 
 ## Changes made to original work
 
-This repo is based on the [Example Voting App](https://github.com/dockersamples/example-voting-app).
+This repo is based on the FCNAPP Demo [Example Voting App](https://github.com/dockersamples/example-voting-app).
 
 Major change listed here:
 * VoteApp now rates shoes instead of pets
